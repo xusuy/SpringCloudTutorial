@@ -63,6 +63,7 @@
 |050	| [Netflix Eureka 源码深入剖析(下)](https://gitee.com/ylimhhmily/SpringCloudTutorial/blob/master/doc/flow-analysis/Eureka_02.md)| xxxx 	|Netflix Eureka 源码深入剖析(下)|
 |xxx	| [一些本人做过的功能模块整理成Demo进行分享](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/springms-draft-demo)| xxxx 	|一些本人做过的功能模块整理成Demo进行分享|
 |051	| [springms-discovery-eureka-ha](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/springms-discovery-eureka-ha)| 8401 	|EurekaServer集群高可用注册中心以及简单的安全认证|
+|052	| [docker](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/doc/install/docker.md)| xxxx 	|CentOS7 安装 Docker 以及常用操作命令讲解|
 
 
 
