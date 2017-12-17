@@ -20,7 +20,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-	<artifactId>springms-simple-quartz-cluster</artifactId>
+	<artifactId>springms-simple-quartz-config-cluster</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 	
@@ -657,7 +657,7 @@ public class SimpleQuartzConfigClusterApplication {
 
 ## 四、下载地址
 
-[https://git.oschina.net/ylimhhmily/SpringCloudTutorial.git](https://git.oschina.net/ylimhhmily/SpringCloudTutorial.git)
+[https://gitee.com/ylimhhmily/SpringCloudTutorial.git](https://gitee.com/ylimhhmily/SpringCloudTutorial.git)
 
 SpringCloudTutorial交流QQ群: 235322432
 

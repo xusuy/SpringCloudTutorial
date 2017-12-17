@@ -63,7 +63,7 @@ spring:
     config:
       server:
         git:
-          uri: https://git.oschina.net/ylimhhmily/OpenSource_CustomCircleLineProgressBar
+          uri: https://gitee.com/ylimhhmily/OpenSource_CustomCircleLineProgressBar
 #          username:    # 自己设置，这里就不做演示了
 #          password:    # 自己设置，这里就不做演示了
 
@@ -187,7 +187,7 @@ public class MsConfigServerEncryptRsaApplication {
 
 ## 四、下载地址
 
-[https://git.oschina.net/ylimhhmily/SpringCloudTutorial.git](https://git.oschina.net/ylimhhmily/SpringCloudTutorial.git)
+[https://gitee.com/ylimhhmily/SpringCloudTutorial.git](https://gitee.com/ylimhhmily/SpringCloudTutorial.git)
 
 SpringCloudTutorial交流QQ群: 235322432
 

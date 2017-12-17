@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://git.oschina.net/ylimhhmily/OpenSource_CustomCircleLineProgressBar
+          uri: https://gitee.com/ylimhhmily/OpenSource_CustomCircleLineProgressBar
 
 

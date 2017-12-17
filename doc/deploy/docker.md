@@ -153,7 +153,7 @@ CONTAINER ID        IMAGE                           COMMAND                  CRE
 
 
 ## 三、用docker部署一个基于Eureka服务治理发现的项目
-### 3.1 从 [SpringCloudTutorial](https://git.oschina.net/ylimhhmily/SpringCloudTutorial.git) 中挑选项目
+### 3.1 从 [SpringCloudTutorial](https://gitee.com/ylimhhmily/SpringCloudTutorial.git) 中挑选项目
 
 ``` 
 1、springms-discovery-eureka 
@@ -314,7 +314,7 @@ springms/discovery-eureka            	latest              f0f8555dcd0b        19
 
 ## 四、下载地址
 
-[https://git.oschina.net/ylimhhmily/SpringCloudTutorial.git](https://git.oschina.net/ylimhhmily/SpringCloudTutorial.git)
+[https://gitee.com/ylimhhmily/SpringCloudTutorial.git](https://gitee.com/ylimhhmily/SpringCloudTutorial.git)
 
 SpringCloudTutorial交流QQ群: 235322432
 

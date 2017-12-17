@@ -615,7 +615,7 @@ public EurekaHttpResponse<Void> register(InstanceInfo info) {
 
 ## 六、下载地址
 
-[https://git.oschina.net/ylimhhmily/SpringCloudTutorial.git](https://git.oschina.net/ylimhhmily/SpringCloudTutorial.git)
+[https://gitee.com/ylimhhmily/SpringCloudTutorial.git](https://gitee.com/ylimhhmily/SpringCloudTutorial.git)
 
 SpringCloudTutorial交流QQ群: 235322432
 
