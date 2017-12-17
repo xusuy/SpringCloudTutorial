@@ -99,3 +99,5 @@
 /springms-draft-demo/target
 /springms-discovery-eureka-ha/*.iml
 /springms-discovery-eureka-ha/target
+/springms-simple-quartz-config-cluster/*.iml
+/springms-simple-quartz-config-cluster/target

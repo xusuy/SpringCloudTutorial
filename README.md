@@ -65,6 +65,7 @@
 |051	| [springms-discovery-eureka-ha](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/springms-discovery-eureka-ha)| 8401 	|EurekaServer集群高可用注册中心以及简单的安全认证|
 |052	| [docker-install](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/doc/install/docker.md)| xxxx 	|CentOS7 安装 Docker 以及常用操作命令讲解|
 |053	| [docker-deploy](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/doc/deploy/docker.md)| xxxx 	|简单用Docker部署一个Eureka服务治理发现的项目|
+|054	| [springms-simple-quartz-config-cluster](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/springms-simple-quartz-config-cluster)| 8405 	|注解配置 Quartz 分布式集群|
 
 
 
