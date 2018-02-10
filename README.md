@@ -66,6 +66,9 @@
 |052	| [docker-install](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/doc/install/docker.md)| xxxx 	|CentOS7 安装 Docker 以及常用操作命令讲解|
 |053	| [docker-deploy](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/doc/deploy/docker.md)| xxxx 	|简单用Docker部署一个Eureka服务治理发现的项目|
 |054	| [springms-simple-quartz-config-cluster](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/springms-simple-quartz-config-cluster)| 8405 	|注解配置 Quartz 分布式集群|
+|055	| [docker-registry-install](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/doc/install/docker-registry.md)| xxxx 	|CentOS7 安装 docker-registry 私有库|
+|056	| [jenkins-install](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/doc/install/jenkins.md)| xxxx 	|CentOS7 安装 jenkins 持续集成工具|
+|057	| [maven-install](https://gitee.com/ylimhhmily/SpringCloudTutorial/tree/master/doc/install/maven.md)| xxxx 	|CentOS7 安装 maven 编译工具|
 
 
 
@@ -79,7 +82,9 @@
 
 ## 四、交流沟通
 
-![微信二维码交流群](https://i.imgur.com/jQVRt6w.png)
+![微信二维码交流群](https://i.imgur.com/Jb6WQHw.png)
+
+
 
 
 
