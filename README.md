@@ -82,7 +82,7 @@
 
 ## 四、交流沟通
 
-![微信二维码交流群](https://i.imgur.com/Jb6WQHw.png)
+![微信二维码交流群](https://i.imgur.com/7lwGP5E.png)
 
 
 
