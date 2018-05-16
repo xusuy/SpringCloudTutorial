@@ -9,9 +9,9 @@ spring:
 # mysql 属性配置
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://ip:3306/hmilyylimh
-    username: username
-    password: password
+    url: jdbc:mysql://localhost:3306/spring-cloud-tutorial
+    username: root
+    password: 914914
 #  jpa:
 #    hibernate:
 #      #ddl-auto: create #ddl-auto:设为create表示每次都重新建表
